@@ -56,16 +56,23 @@ const Hero = () => {
           variants={followVariants}
           initial="initial"
           animate="animate"
-          className="follow"
+          className="follow mt-5"
         >
-          <motion.a variants={followVariants} href="/">
+          <motion.a
+            variants={followVariants}
+            href="https://www.instagram.com/dekaroyanto/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img src="/instagram.png" alt="" />
           </motion.a>
-          <motion.a variants={followVariants} href="/">
+          <motion.a
+            variants={followVariants}
+            href="https://www.facebook.com/deka.royanto.1?mibextid=LQQJ4d"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img src="/facebook.png" alt="" />
-          </motion.a>
-          <motion.a variants={followVariants} href="/">
-            <img src="/youtube.png" alt="" />
           </motion.a>
           <motion.div variants={followVariants} className="followTextContainer">
             <div className="followText">SOCIAL MEDIA</div>
