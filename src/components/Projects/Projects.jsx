@@ -2,12 +2,12 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import wuling from "../../Assets/Projects/wuling.png";
-import scentnice from "../../Assets/Projects/scentnice.png";
-import tri from "../../Assets/Projects/tri.png";
-import talent from "../../Assets/Projects/talent.png";
-import presensi from "../../Assets/Projects/presensi.png";
-import afiliator from "../../Assets/Projects/afiliator.png";
+import wuling from "../../assets/Projects/wuling.png";
+import scentnice from "../../assets/Projects/scentnice.png";
+import tri from "../../assets/Projects/tri.png";
+import talent from "../../assets/Projects/talent.png";
+import presensi from "../../assets/Projects/presensi.png";
+import afiliator from "../../assets/Projects/afiliator.png";
 
 function Projects() {
   return (
