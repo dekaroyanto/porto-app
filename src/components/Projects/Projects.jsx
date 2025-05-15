@@ -37,7 +37,7 @@ function Projects() {
               isBlog={false}
               title="ScentNice Affiliate"
               description="This landing page was specifically created to support the affiliate registration program for the ScentNice perfume brand. Designed with a modern, clean, and responsive layout, the page serves as both an information hub and a registration gateway for anyone interested in joining the ScentNice sales team."
-              demoLink="https://scentnice.co.id/affiliate-dev/"
+              demoLink="https://scentnice.co.id/affiliate"
             />
           </Col>
 
